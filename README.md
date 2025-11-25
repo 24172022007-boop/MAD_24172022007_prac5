@@ -98,6 +98,6 @@ This practical demonstrates:
 
 ---
 
-**Student**: Vraj Patel (24172012060)  
+**Student**: Harshil Patel (24172022007)  
 **Course**: Mobile Application Development  
 **Practical**: 5 - Jetpack Compose Navigation
